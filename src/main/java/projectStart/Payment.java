@@ -38,7 +38,4 @@ public class Payment {
         this.customerId = customerId;
     }
 
-
-
-
 }
